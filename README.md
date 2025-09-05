@@ -21,7 +21,7 @@ Built using the [`qrcode`](https://pypi.org/project/qrcode/) library.
    pip install qrcode pillow
 Run the program:
 Enter any text or link → get your QR code instantly ✅
-
+---
 qr-code-gen/
 │── 0606.py      # Main script for generating QR codes
 │── README.md    # Project documentation
